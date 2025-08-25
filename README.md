@@ -21,16 +21,16 @@ Explore the live platform: https://cryptochase.ai/?utm_source=github&utm_medium=
 ## Quick Links
 
 - All Opinions: https://cryptochase.ai/opinions?utm_source=github&utm_medium=org_readme&utm_campaign=org_brand
-- Top Picks: https://cryptochase.ai/top-picks?utm_source=github&utm_medium=org_readme&utm_campaign=org_brand
-- Most Discussed: https://cryptochase.ai/most-discussed?utm_source=github&utm_medium=org_readme&utm_campaign=org_brand
+- Top Picks: https://cryptochase.ai/opinions/recent-top
+- Most Discussed: https://cryptochase.ai/opinions/most-discussed
 - Crypto Market: https://cryptochase.ai/crypto?utm_source=github&utm_medium=org_readme&utm_campaign=org_brand
-- Premium: https://cryptochase.ai/premium?utm_source=github&utm_medium=org_readme&utm_campaign=org_brand
+- Premium: https://cryptochase.ai/pricing
 - Watchlist: https://cryptochase.ai/watchlist?utm_source=github&utm_medium=org_readme&utm_campaign=org_brand
 - Traders API: https://cryptochase.ai/traders-api?utm_source=github&utm_medium=org_readme&utm_campaign=org_brand
 - Sign In: https://cryptochase.ai/login?utm_source=github&utm_medium=org_readme&utm_campaign=org_brand
 - Get Support: https://cryptochase.ai/support?utm_source=github&utm_medium=org_readme&utm_campaign=org_brand
-- Privacy Policy: https://cryptochase.ai/privacy?utm_source=github&utm_medium=org_readme&utm_campaign=org_brand
-- Terms of Service: https://cryptochase.ai/terms?utm_source=github&utm_medium=org_readme&utm_campaign=org_brand
+- Privacy Policy: https://cryptochase.ai/privacy-policy
+- Terms of Service: https://cryptochase.ai/terms-of-service
 
 ## Platform Highlights
 
