@@ -53,7 +53,7 @@ CryptochaseAI is a comprehensive cryptocurrency intelligence platform featuring 
 ## Organization & Links
 
 - Website: https://cryptochase.ai/?utm_source=github&utm_medium=org_readme&utm_campaign=org_brand
-- GitHub Pages overview: https://cryptochaseai.github.io/cryptochaseai/?utm_source=github&utm_medium=org_readme&utm_campaign=org_brand
+- GitHub Pages overview: https://cryptochaseai.github.io/?utm_source=github&utm_medium=org_readme&utm_campaign=org_brand
 - GitHub Organization: https://github.com/CryptochaseAi
 
 ---

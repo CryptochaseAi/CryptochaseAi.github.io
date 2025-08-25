@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cryptochaseai.github.io/cryptochaseai/sitemap.xml
+Sitemap: https://cryptochaseai.github.io/sitemap.xml
 
 
